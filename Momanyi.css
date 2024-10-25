@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.letterhead {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.header-left h2 {
+    margin: 0;
+    font-size: 20px;
+}
+
+.header-left p, .header-right p {
+    margin: 5px 0;
+}
+
+.header-right {
+    text-align: right;
+}
+.header-center {
+    text-align: center;
+}
+
+
